@@ -1,0 +1,9 @@
+{
+  "name": "texanhogman/product-bundle",
+  "description": "example of a product bundle",
+  "type": "metapackage",
+  "require": {
+    "texanhogman/moduleA": "~1.0",
+    "texanhogman/moduleB": "~1.0"
+  }
+}
