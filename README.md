@@ -1,1 +1,1 @@
-# product-bundle 2.0.0-RC4
+# product-bundle 2.0.0-RC5
