@@ -3,7 +3,7 @@
   "description": "example of a product bundle",
   "type": "metapackage",
   "require": {
-    "texanhogman/module-a": "1.0.3",
-    "texanhogman/module-b": "1.0.3"
+    "texanhogman/module-a": "2.0.0",
+    "texanhogman/module-b": "2.0.0"
   }
 }
